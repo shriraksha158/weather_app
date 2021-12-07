@@ -7,7 +7,7 @@ import Form from "./app_components/form.component";
 
 
 // api  call to api.openweathermap.org/data/2.5/weather?q=London&appid={API key}
-const API_key="e851599701c006e327ff1d91960f2cef";
+const API_key="";
 
 class App extends Component {
   constructor(){
